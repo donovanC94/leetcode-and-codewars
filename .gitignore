@@ -1,7 +1,9 @@
 # Default ignored files
 /shelf/
-/workspace.xml
+/.idea/workspace.xml
 /.idea/
 /leetcode.iml
 /sshKey
 /sshKey.pub
+/out/
+/target/
